@@ -1,0 +1,9 @@
+{
+	"id": "summary-note-plugin",
+	"name": "Summary Note plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "generates and show summary note. A summary note is file with same name of its directory and summary tag",
+	"author": "Concepty",
+	"isDesktopOnly": false
+}
